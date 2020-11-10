@@ -15,5 +15,6 @@ void main()
 		cout <<left<<"y="<< y<<endl;
 	}
 	while (x >= 2 && x <= 4);
-	//s
+	//changes
+	//commit 2
 }
